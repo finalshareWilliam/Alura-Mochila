@@ -1,2 +1,1 @@
-# Alura-Mochila
-Curso de JavaScript realizado na Alura
+# alura-armazenando-na-web
